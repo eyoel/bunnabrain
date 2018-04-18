@@ -17,8 +17,8 @@ title: Bunna for the brain
 email: eyoela@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The journey through life, as we sip on coffee and philosophize.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://eyoel.github.io/bunnabrain/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/bunnabrain" # the subpath of your site, e.g. /blog
+url: "https://eyoel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: eyoela
 facebook_username: eyoela
 github_username:  eyoel
