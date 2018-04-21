@@ -1,8 +1,13 @@
 ---
-layout: post
+layout: single
 title:  "Bunna comes to Jekyll!"
 date:   2018-04-16 22:21:58 -0700
-categories: tech brew
+categories: tech-brew
+excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+header:
+  overlay_image: /assets/images/Racing-against-time-Afar-sunset.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5
+  caption: "Racing against time in Afar"
 ---
 This is my initial post during the transition from wordpress to jekyll. I'll be working on moving my site from the wordpress [BunnaBrains][jekyll-docs] sight over to GitHub Pages.
 
