@@ -1,0 +1,19 @@
+main:
+  - title: "Tech brew"
+    url: /categories/tech-brew/
+    description: "Brewing up techie ideas"
+  - title: "Slow drip"
+    description: "thoughts slowing dripping out while we wait for more coffee..."
+    url: /categories/slow-drip/  # thoughts or self expression
+  - title: Exploring the World
+    url: /categories/travel/
+    description: "As we strive to understand ourselves,
+    seeing and discovering new cultures across the globe helps us
+    understand what truly makes our own home special."
+    children:
+      - title: "Europe"
+        url: /categories/europe/
+      - title: "India"
+        url: /categories/india/
+  - title: "Archive"
+    url: /year-archive/
