@@ -1,0 +1,25 @@
+---
+author: eyoela
+
+date: 2013-12-11 18:33:26+00:00
+layout: single
+
+slug: den-haag
+title: Den Haag
+
+categories:
+- travel
+- europe
+---
+
+The city of diplomacy and antiquities was filled with wonders that came from centuries ago.
+
+But the biggest treasure of all was the wonderful man who was showing us all of this. He was a tall and eloquent Dutch nobleman of sorts. From his fit shape, he must have been a ladies(men's) killer before all the grey hair - and could possible still pull it off. As a former worker in the ministry of external affairs and a paleontologist by education, he was very knowledgeable on The Hague's history and the all things happening around the world. We would walk from building to building, castle to church, small street to alleyway and would know the history of each one with a little anecdote to make it interesting. When he spoke it, seemed as if he was always addressing an invisible audience but was always able to maintain eye contact with everyone and give each story a personal touch.
+
+![The Inner court and home of Hague government explained to us]({{site.baseurl}}/assets/images/Binnenhof-Inner-court-Hague.jpg)
+
+Den Haag was filled with beautiful century old buildings and historic sights, as it was where the head of government sat for the Netherlands, even though Amsterdam is the capital. Most people know it as the home of the international peace court, which brings a large flux of lawyers and diplomats to the city. However the city also has it's own rich history and important role in Holland's history. Many embassies and consulates resided in enchanting old buildings that were all built at least a hundred years ago. It was very interesting to see all these warring nations residing peacefully in beautiful buildings so close to each other.
+
+![One of the wonderful embassy buildings]({{site.baseurl}}/assets/images/banglore--buffet.jpg)
+
+![View of the Dutch parliament's chambers]({{site.baseurl}}/assets/images/banglore-wg-buffet.jpg)

@@ -1,0 +1,40 @@
+---
+author: eyoela
+date: 2013-12-18 04:43:47+00:00
+layout: single
+slug: paris
+title: Paris
+categories:
+- travel
+- europe
+# header:
+#   image: /assets/images/notredam-church.jpg # TODO: need to resize the image first
+tags:
+- travel
+---
+
+Walking by myself down the streets of Paris on an unexpectedly bright and warm day, not once did I feel alone. The cheerful chirping of seagulls by the river walkway added life to the view of beautiful bridges and castles (château) that surround the oldest part of Paris (Île de la Cité). Though every bridge has an amazing view, one cant help but stop to marvel the bridge of love.
+
+![scenic walk by the bridge La Pont Neuf]({{site.baseurl}}/assets/images/pari-bridge.jpg)
+
+Once an old Chinese tradition, lovers in Paris now symbolize their affection by a lock(padlock) which they engrave their names on and lock forever - throwing away the key into the river, marking the eternity of their love. The bridge's railings are overflowing with locks from end to end and even on to the lampposts. Though this might make the bridge structurally unsafe it definitely shows Paris' unwavering love for romance.
+
+
+![love-locks]({{site.baseurl}}/assets/images/love-lock-bridge.jpg)
+![lock-bridge]({{site.baseurl}}/assets/images/love-locks.jpg)
+
+Continuing to walk through the streets, the structural masterpieces of old and new, that fill the tight medieval streets and the wide shoppings boulevards (Avenue des Champs-Élysées) bring out the bold and beautiful character of the culturally rich and fashionable city that makes Paris.
+
+![Notre Dame de Paris]({{site.baseurl}}/assets/images/notre-dam-church.jpg)
+
+But of course, we can forget the hordes of tourists that seem to outnumber the Parisians in most popular parts of the city.  Always rushing by to get their next travel "must take photo" in front of some building or another, its almost impossible to be alone by a monument or even in a picture.
+
+The only reminder of my solitude was the numerous pairs of finely dressed couples that walk down the streets holdings hands and sharing affectionate conversations that seemed to be whispered between them. Some stopping everyone and then to exchange long passionate kisses (french kisses) - as though they can't hold back their emotions any longer. Though, one Frenchman had told us that the French were very private about their affairs, it definitely didn't seem like they were private about their feelings with their lovers.
+
+
+![paris-streets]({{site.baseurl}}/assets/images/pari-streets.jpg)
+
+
+But this was welcomed as well, I had found a lover too. I had met her with much skepticism at first, but it didn't take long for my heart to melt. Her cold first glance and slightly reserved nature had me confused. Little did I know, it was only her being polite. Once you get to know her, oh how vibrant she is! Like a fine lady, you have to take your time to find all her secret treasures. It was love, and my lock has been locked. I will definitely be coming back to see her again.
+
+--Paris

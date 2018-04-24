@@ -10,10 +10,17 @@ main:
     description: "As we strive to understand ourselves,
     seeing and discovering new cultures across the globe helps us
     understand what truly makes our own home special."
+  - title: "Archive"
+    url: /year-archive/
+
+travel:
+  - title: By Region
     children:
       - title: "Europe"
         url: /categories/europe/
       - title: "India"
+        description: "All the mystical Journeys through the land of Buddha, Genesha and Aladdin."
         url: /categories/india/
-  - title: "Archive"
-    url: /year-archive/
+      - title: "Argentina"
+        description: "the land of Mesi, Fernett, & Voludos!"
+        url: /categories/argentina/
