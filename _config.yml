@@ -24,7 +24,7 @@ title_separator          : "-"
 name                     : "Eyoel Asfaw"
 description              : "The journey through life, as we sip on coffee and philosophize."
 url                      : "https://eyoel.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/bunnabrain" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "eyoel/bunnabrain" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/Racing-against-time-Afar-sunset.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -93,9 +93,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-131349312-1
 
 
 # Site Author
