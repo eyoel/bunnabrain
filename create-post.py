@@ -1,5 +1,4 @@
-#!/usr/bin/python
-import calendar
+#!/usr/bin/env python3
 import datetime
 import os
 from subprocess import call
@@ -21,7 +20,7 @@ header:
   caption: "<A caption - how cool>"
 ---
 
-# Title
+# %s
 Some text here ...
 
 ![Some image caption]({{site.baseurl}}/assets/images/image.jpg)
@@ -39,42 +38,34 @@ on the next line
 '''
 
 def run():
-    title = raw_input("Enter the title of the post: \n >")
-    category_name = raw_input("Enter category [tech-brew, travel, slow-drip]: >")
-    excerpt = raw_input("Enter excerpt: >")
-    # post_date_str = raw_input("Enter post date Eg. DD-MM-YYYY: \n >")
-    post_date_str = "01-01-2019"
-    post_date = datetime.datetime.strptime(post_date_str, "%d-%m-%y").today()
+    title = input("Enter the title of the post: \n >")
+    category_name = input("Enter category [tech-brew, travel, slow-drip]: >")
+    excerpt = input("Enter excerpt: >")
+    post_date = datetime.datetime.now()
 
     if not title or not category_name:
         print("Error while trying to create post. One of the inputs is empty or not valid")
         return
-    create_post_file(title, post_date, category, excerpt)
-    call(["testWebpage", "no args needed"])  # start up the test server
+    create_post_file(title, post_date, category_name, excerpt)
+    # The following command is commented out as it may not exist on all systems.
+    # call(["testWebpage", "no args needed"])  # start up the test server
 
 
-def create_post_file(title,post_date,category,excerpt):
-    title = title.lower()
-    title = title.replace(' ', '-')
-    filename = "_posts/"+date_string(post_date)+title+".markdown"
-    # TODO: put the variables in there
-    post_text = template_string.format()
+def create_post_file(title, post_date, category, excerpt):
+    filename_title = title.lower().replace(' ', '-')
+    filename = f"_posts/{post_date.strftime('%Y-%m-%d')}-{filename_title}.markdown"
+    
+    post_text = post_template % (title, post_date.strftime('%Y-%m-%d %H:%M:%S %z'), category, excerpt, title)
     try:
         if not os.path.isfile(filename):
-            with open(filename, 'a+') as newpost_file:
+            with open(filename, 'w') as newpost_file:
                 newpost_file.write(post_text)
+            print(f"New post created: {filename}")
         else:
-            print('File already exists -  ' + filename)
+            print(f"File already exists - {filename}")
     except Exception as e:
-        print('Exception trying to write to the file:' + filename+ ' exception: ',e)
+        print(f"Exception trying to write to the file: {filename} exception: {e}")
 
 
-def date_time_string(date):
-    return date.strftime("%d-%m-%y ")
-
-def date_string(date):
-    return date.strftime("%d-%m-%y")
-
-
-
-run()
+if __name__ == "__main__":
+    run()
