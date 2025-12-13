@@ -2,19 +2,11 @@
 layout: single
 title:  "Speaking Up & Calling In"
 date:   2025-12-09 19:00:44 -0700
+slug: calling in
 categories: slow-drip
 excerpt: "The ultimate tragedy is not the oppression and cruelty by the bad people but the silence over that by the good people."
 ---
----
-author: eyoela
 
-date: 2025-12-09 19:00:44+00:00
-layout: single
-slug: calling in
-title: Speaking Up & Calling In
-categories:
-- slow-drip
----
 
 This is not a time to be silent, I've been quiet for too long ... After a period of inward reflection and trying to understand the things happening around the world and within my own life - I am ready to speak up again, to share my views with the world.
 
