@@ -4,7 +4,6 @@ title:  "Being myself in community"
 date:   2025-12-12 11:24:10
 author: eyoela
 categories: slow-drip
-slug: community in movement
 excerpt: ""when I am dancing, I'm just another dancer on the dance floor, I'm not Eyu the Engineer, I'm not Eyu the founder"  That is a liberating feeling to be seen just as you are while being in community."
 ---
 
