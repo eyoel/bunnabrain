@@ -20,12 +20,12 @@ I didn't want to get in trouble, but I also didn't want to leave my friends. So 
 
 I worked hard, I made sacrifices, to be a citizen of a country that was governed by rules, that has checks and balance, where there is due process. I am not going to stand by and watch as it falls apart. That would make me as complicit in the destruction of this democracy as anyone else.
 
-I have many friends and family that voted for the Trump administration, and I love them dearly. I still talk to them regularly, I know they love me, and will be there for me when I need it.
-This is not a time to cut people out of your life for differing views, if half the country, a large part of the religious society (christians, muslims) voted in a democratic process for such a blatantly immoral person to lead them - the issue is not the people. The issue is the system, and we need to fix it together. We cannot find solutions without communicating across party lines and political divides.
+I have many friends and family that voted for the current (2025) administration, and I love them dearly. I still talk to them regularly, I know they love me, and will be there for me when I need it.
+This is not a time to cut people out of your life for differing views, if half the country, a large part of the religious society voted in a democratic process for such a blatantly immoral person to lead them - the issue is not the people. The issue is how we are taught to determine what is right and wrong.
 
 
 Always remember that every human in this country wants to be a good person, cares about their families, and wants to be treated with respect. We are not that different, the only difference is our news sources, the stories we're being told, that shape how we think we can be a "good person", about who is our friend and enemy...
 
-Cutting out your Trump-supporting friends means one less person who feels seen and understood by a democrat/liberal - only pushing them further into whatever feelings and stories took them in that direction. Try and find out what made them vote in that direction, try and understand what pain they are feeling that made them vote this way.
+When we feel upset/angry and stop talking with our friends and family over their political views, that means one less person who feels seen and understood by someone with our values - only pushing them further into whatever feelings and stories took them in that direction. Try and find out what made them vote in that direction, try and understand what pain they are feeling that made them vote this way.
 
 Let's call people in! Please watch this video for more on what it means to "call in" those we disagree with: [loretta_j_ross_don_t_call_people_out_call_them_in](https://www.ted.com/talks/loretta_j_ross_don_t_call_people_out_call_them_in)
